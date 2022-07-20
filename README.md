@@ -14,7 +14,7 @@
 
 ## **Please feel free to try our dashboard: [Heart-disease-dashboard](http://127.0.0.1:8800/)** 
 
-**Thanks for my friend [hebatoallah-yehya1111](https://github.com/hebatoallah-yehya1111) 👩🏻‍💻 for her efforts to make this project happened.**
+**Thanks for my friend [Hebatoallah Yahia](https://github.com/hebatoallah-yehya1111) 👩🏻‍💻 for her efforts to make this project happened.**
 
 
 Hope you enjoy it ! 
